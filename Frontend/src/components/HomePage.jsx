@@ -17,7 +17,7 @@ const HomePage = () => {
             <span className="gradient">GearGuard</span> Maintenance System
           </h2>
           <p className="description">
-            Streamline your equipment maintenance with intelligent tracking and automated scheduling.
+            A web-based Maintenance Management System to track company assets, manage maintenance requests, and assign tasks to teams efficiently.
           </p>
           
           <div className="buttons">
@@ -25,10 +25,10 @@ const HomePage = () => {
               Registration
             </button>
             <button className="btn btn-login">
-              User Login
+              Employee Login
             </button>
             <button className="btn btn-maintenance">
-              Maintenance Login
+              Technician Login
             </button>
           </div>
         </div>
